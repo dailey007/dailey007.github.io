@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "仰望星空"
 ---
 
 <div class="tiles">
