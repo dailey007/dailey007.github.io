@@ -3,7 +3,7 @@
 title:hello world
 description: This is a dexcription.
 logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: default.jpg
 locale:
 url:
 
