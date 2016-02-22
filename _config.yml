@@ -1,11 +1,11 @@
 # Site wide configuration
-
-title:hello world
-description: This is a dexcription.
+encoding: utf-8
+title:鹅卵石
+description: "\n\n"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: default.jpg
-locale:
-url:
+#locale:
+url: http://dailey007.github.io/
 
 # Jekyll configuration
 
@@ -21,10 +21,10 @@ gems:
 
 # Site owner
 owner:
-  name:dailey007
-  email:1040965724@qq.com
-  twitter:
-  google:
+  name:dailey
+  email:pebblestone@qq.com
+  twitter:@daileydai
+  google:daileyv587@gmail.com
     ad-client: 
     ad-slot: 
   bio: 
