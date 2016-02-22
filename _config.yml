@@ -1,11 +1,12 @@
 # Site wide configuration
 encoding: utf-8
-title:鹅卵石
+title: pebblestone
 description: "\n\n"
-logo: # 120x120 px default image used for Twitter summary card
+logo: favicon.ico # 120x120 px default image used for Twitter summary card
 teaser: default.jpg
 #locale:
-url: http://dailey007.github.io/
+baseurl: /
+url: http://dailey007.github.io
 
 # Jekyll configuration
 
