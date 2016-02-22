@@ -1,5 +1,4 @@
 # Site wide configuration
-encoding: utf-8
 title: pebblestone
 description: "\n\n"
 logo: favicon.ico # 120x120 px default image used for Twitter summary card
