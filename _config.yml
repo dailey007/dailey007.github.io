@@ -10,7 +10,7 @@ description:
 
 # the subpath of your site, e.g. /blog/
 baseurl: "" 
-url: "http://dailey007.github.io/" # the base hostname & protocol for your site
+url: "http://dailey007.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username: dailey007
 permalink: /:year/:month/:day/:title/
@@ -24,7 +24,7 @@ newsourceroot: https://github.com/dailey007/dailey007.github.io
 #duoshuo_url: "http://lixizhi.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
 disqus_shortname: pebblestone
-disqus_url: "http://dailey007.github.io/"
+disqus_url: "http://dailey007.github.io"
 #########################################
 
 # Build settings
