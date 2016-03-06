@@ -2,6 +2,7 @@
 layout: post
 title:  "Android APK 重签名工具"
 comments: true
+categories: tool
 ---
 
 [github地址](https://github.com/dailey007/WindowsBatUtils.git)
