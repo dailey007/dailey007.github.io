@@ -8,32 +8,17 @@ permalink: /about/
 * content
 {:toc}
 
+![pebblestone](/static/img/pebblestone.png)
+
 ## About the site
-
-### Admin tools
-
-
-### About comments
-Add a variable called `comments` to the [YAML front matter](http://jekyllrb.com/docs/frontmatter/) and set its value to true. A sample might look like:
-
-    ---
-    layout: post
-    comments: true
-    # other options
-    ---
-
-### Sample markdowns
-Click view source at the bottom of the page
-
-* Embedding code
-{% highlight lua %}
-local function main()
-	print("hello world everyone")
-end
-{% endhighlight %}
-
+主要记录一些日常的工作积累。其中，涉及一些自己感兴趣的东西，大多是跟编程或测试有关。
 
 ## About me
+* name: dailey
+* email: daileydai@foxmail.com
+* company: Tencent.com
+* position: Senior Software QA Engineer
+* ability: python,java,android,c#,etc
 
 
 
