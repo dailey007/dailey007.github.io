@@ -57,7 +57,7 @@ _includes:用于存放一些固定的HTML代码段，文件为.html格式，可�
 #### 调试
 
 ```
-		jekyll build --trace
+	jekyll build --trace
 ```
 
 在博客文件夹下，在命令行中输入jekyll build --trace就可以将所有文章文件根据其模板进行编译，生成结果，放在根目录下的_site中.
@@ -65,7 +65,7 @@ _includes:用于存放一些固定的HTML代码段，文件为.html格式，可�
 #### 本地查看
 
 ```
-		jekyll serve
+	jekyll serve
 ```
 
 这样会开启一个监听端口4000的服务器，浏览器中查看http://localhost:4000，则会进入index.html的内容中，点击文章的标题就可以跳转到具体的博文了。
